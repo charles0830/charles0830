@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Welcome to here! Here is a skilled Web Developer.</h1>
-<h3 align="left">I am a highly motivated software engineer with 13 years of experience working in teams of all sizes. I am adept at joining
+<h3 align="left">I am a highly motivated software engineer with 13 years of wonderful experience working in teams of all sizes. I am adept at joining
 projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of
 concurrent users. In addition to my technical skills, I can also provide valuable business insight during the development
 stage.</h3>
