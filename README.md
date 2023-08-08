@@ -1,6 +1,8 @@
 <h1 align="left" id="macropower-title">:wave: Welcome here! Here is a skilled Web Developer.</h1>
 <h3 align="left">As a hardworking developer with 10 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.
 
+
+ 
 Building state-of-the-art, easy to use, user friendly web sites and applications is truly a passion of mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of concurrent users.
 
 Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
