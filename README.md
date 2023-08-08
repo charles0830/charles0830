@@ -41,6 +41,6 @@ stage.</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,laravel,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,c,cs,cpp,java,ruby,rails,md,nginx,powershell,prisma,qt,vscode,atom,idea,androidstudio,eclipse,git,github,linux,svg,unity,vercel,heroku,aws,azure,d3,electron,firebase,nestjs" />
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,laravel,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,c,cs,cpp,java,ruby,rails,md,nginx,powershell,prisma,qt,vscode,atom,idea,androidstudio,eclipse,git,github,linux,svg,unity,vercel,heroku,aws,azure,d3,electron,firebase,nestjs,stackoverflow" />
   </a>
 </p>
