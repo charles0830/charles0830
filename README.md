@@ -95,11 +95,11 @@
 <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamboat999&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
 </p>
 <p align="center">
-  <a href="https://github.com/oki-seiichi?tab=repositories&sort=stargazers">
+  <a href="https://github.com/devfairy0830?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dreamboat999"/></a>
-  <a href="https://github.com/oki-seiichi?tab=followers">
+  <a href="https://github.com/devfairy0830?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dreamboat999?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/oki-seiichi">
+  <a href="https://github.com/devfairy0830">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=dreamboat999&style=for-the-badge&logo=GitHub"/></a>
 </p>
 
