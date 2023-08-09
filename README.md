@@ -77,3 +77,4 @@
         <p align="center">💖 Visited Counts 💖<br><br> <img
                 src="https://profile-counter.glitch.me/kritical0613/count.svg" />
     </a>
+</p>
