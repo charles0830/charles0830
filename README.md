@@ -2,9 +2,10 @@
   <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
 </div>
 <p>
+
+<h3 align="left">As a hardworking developer with 10 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.</h3>
  <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;10+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
-<h3 align="left">As a hardworking developer with 10 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.</h3>
 <h3 align="left">Building state-of-the-art, easy to use, user friendly web sites and applications is truly a passion of mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of concurrent users.</h3>
 <h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
 </p>
