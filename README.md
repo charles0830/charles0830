@@ -17,18 +17,8 @@
     each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
 </p>
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-    <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"
-    width="100%">
-
-
-    ## ⚡ Technologies
-
-    <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+## ⚡ Technologies
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -73,6 +63,7 @@
 <p align="center">
     <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
 </p>
+
 <p align="center">
 <div align="center">
     <img
@@ -83,18 +74,15 @@
     <img
         src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
 </div>
-<p align="right">
-    <img
-        src="https://camo.githubusercontent.com/fc7ab63c0d13a62ee92c9262c367cdf87b13b50f5781eb5854daf78d1d150c49/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f26626f726465725f636f6c6f723d6339666630302673686f775f69636f6e733d74727565">
-</p>
-<p align="left">
-    <img
-        src="https://camo.githubusercontent.com/badb9b8e33b5dd64ba966714daf05dc0018b7a8ceb6e6d0bd26cb996743e15c7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d7472696e69622e76657263656c2e6170702f3f757365723d7472696e6962267468656d653d6d65726b6f26626f726465723d63396666303026666972653d666635353030">
 
-<p align="center">
-    <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img
-            src="https://camo.githubusercontent.com/14ae1b49b861837c7787f8ba19b5b7349d160bdbc0b90f2184b60789449077f1/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d633966663030266c616e67735f636f756e743d36">
-</p>
+<div class="row">
+    <p align="right">
+        <img           src="https://camo.githubusercontent.com/fc7ab63c0d13a62ee92c9262c367cdf87b13b50f5781eb5854daf78d1d150c49/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f26626f726465725f636f6c6f723d6339666630302673686f775f69636f6e733d74727565">
+    </p>
+    <p align="left">
+        <img          src="https://camo.githubusercontent.com/badb9b8e33b5dd64ba966714daf05dc0018b7a8ceb6e6d0bd26cb996743e15c7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d7472696e69622e76657263656c2e6170702f3f757365723d7472696e6962267468656d653d6d65726b6f26626f726465723d63396666303026666972653d666635353030">
+    </p>
+</div>
 
 <p>
     <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
