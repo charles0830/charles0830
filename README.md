@@ -22,137 +22,37 @@
         <h1><a align='center' width='100%' href="https://charles0830.github.io/">Please Click Here!</a></h1>
     </div>
     ## ⚡ Technologies
-    <table align="center">
-      <tr>
-        <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-          <br>React
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-          <br>Next.js
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-          <br>Vue
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-          <br>Nuxt.js
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-          <br>Angular
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-          <br>Express
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-          <br>Laravel
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
-          <br>Rails
-        </td>
-        <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-          <br>Django
-        </td>
-        <td align="center" width="90">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix " width="45" height="45"/>
-          <br>Phoenix
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-          <br>Javascript
-        </td>
-        <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-          <br>Typescript
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-          <br>PHP
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-          <br>Ruby
-        </td>
-        <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-          <br>Python
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-          <br>MongoDB
-        </td>
-        <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-          <br>MySQL
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-          <br>PostgreSQL
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-          <br>SQLite
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
-          <br>Supabase
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-          <br>Flutter
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-          <br>Android
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-          <br>MaterialUI
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-          <br>Tailwind
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
-          <br>Styled
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-          <br>Three.js
-        </td>
-        <td align="center" width="90">
-          <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-          <br>NFT
-        </td>
-        <td align="center" width="90">
-          <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-          <br>DeFi
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-          <br>Solidity
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-          <br>Rust
-        </td>
-      </tr>
-    </table>
+    <p align="center">
+        <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+        <!-- programming tool icon 编程工具图标 -->
+        <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+        <!-- svg -->
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+        <!-- gif -->
+        <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+        <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+        <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+        <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
+        <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
+        <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+        <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+        <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+    </p>
     ## 📈 Stats
     <p align="center">
+        <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
         <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
+        &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
     </p>
     <p align="center">
     <div align="center">
@@ -174,17 +74,18 @@
     <p>
         <h3 align="center">Please give star to these projects(It need only 2 clicks)</h3>
         <div align="center">
-            <a href="https://github.com/charles0830/charles0830.github.io">Personal Website</a><br>
-            <a href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a><br>
-            <a href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a><br>
-            <a href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a><br>
-            <a href="https://github.com/charles0830/A-Social-Media">A Social Media</a><br>
-            <a href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a><br>
-            <a href="https://github.com/charles0830/charles0830">GitHub Profile</a><br>
-            <a href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a><br>
-            <a href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a><br>
-            <a href="https://github.com/charles0830/nano-neuron">NanoNeuron</a><br>
+            <a href="https://github.com/charles0830/charles0830.github.io">Personal Website</a>&nbsp;&nbsp;
+            <a href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a>&nbsp;&nbsp;
+            <a href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a>&nbsp;&nbsp;
+            <a href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a>&nbsp;&nbsp;
+            <a href="https://github.com/charles0830/A-Social-Media">A Social Media</a>&nbsp;&nbsp;
+            <a href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a>&nbsp;&nbsp;
+            <a href="https://github.com/charles0830/charles0830">GitHub Profile</a>&nbsp;&nbsp;
+            <a href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a>&nbsp;&nbsp;
+            <a href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a>&nbsp;&nbsp;
+            <a href="https://github.com/charles0830/nano-neuron">NanoNeuron</a>&nbsp;&nbsp;
         </div>
     </p>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 </body>
 </html>
