@@ -1,21 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .cool-button {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: green;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-      font-size: 16px;
-      transition: background-color 0.3s ease;
-    }
-    .cool-button:hover {
-      background-color: #47a347; /* darker shade of green on hover */
-    }
-  </style>
+
 </head>
 <body>
     <div style="display: flex; justify-content: center;">
@@ -101,16 +87,30 @@
     <p>
         <h3 align="center">Please give me star</h3>
         <div align="center">
-              <a class="cool-button" href="https://github.com/charles0830/charles0830.github.io">Personal Website</a>
-              <a class="cool-button" href="https://github.com/charles0830/charles0830">GitHub Profile</a>
-              <a class="cool-button" href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a>
-              <a class="cool-button" href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a>
-              <a class="cool-button" href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a>
-              <a class="cool-button" href="https://github.com/charles0830/A-Social-Media">A Social Media</a>
-              <a class="cool-button" href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a>
-              <a class="cool-button" href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a>
-              <a class="cool-button" href="https://github.com/charles0830/nano-neuron">NanoNeuron</a>
-              <a class="cool-button" href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a>    
+          <a class="cool-button" href="https://github.com/charles0830/charles0830">GitHub Profile</a>
+          <a class="cool-button" href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a>
+          <a class="cool-button" href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a>
+          <a class="cool-button" href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a>
+          <a class="cool-button" href="https://github.com/charles0830/A-Social-Media">A Social Media</a>
+          <a class="cool-button" href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a>
+          <a class="cool-button" href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a>
+          <a class="cool-button" href="https://github.com/charles0830/nano-neuron">NanoNeuron</a>
+          <a class="cool-button" href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a>
+          <style>
+          .cool-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: green;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+          }
+          .cool-button:hover {
+            background-color: #47a347; /* darker shade of green on hover */
+          }
+          </style>
         </div>
     </p>
 </body>
