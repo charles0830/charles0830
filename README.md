@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-
-</head>
 <body>
     <div style="display: flex; justify-content: center;">
         <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
@@ -22,45 +19,9 @@
         each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
     </p> 
     ## ⚡ Technologies
-    <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-    ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-    ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-    ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-    ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-    ![Django](https://img.shields.io/badge/-Django-005571?style=flat-square&logo=django)
-    ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-E10098?style=flat-square&logo=rubyonrails)
-    ![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
-    ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-    ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-    ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-    ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-    ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-    ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-    ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-    ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-    ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-    ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-    ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-    ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-    ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-    ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-    ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-    ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-    ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-    ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) --> 
     <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,laravel,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,c,cs,cpp,java,ruby,rails,md,nginx,powershell,prisma,qt,vscode,atom,idea,androidstudio,eclipse,git,github,linux,svg,unity,vercel,heroku,aws,azure,d3,electron,firebase,nestjs,stackoverflow" />
-      </a>
-      <a href="https://skillicons.dev">
-          <img
-              src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,laravel,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,c,cs,cpp,java,ruby,rails,md,nginx,powershell,prisma,qt,vscode,atom,idea,androidstudio,eclipse,git,github,linux,svg,unity,vercel,heroku,aws,azure,d3,electron,firebase,nestjs" />
       </a>
     </p>
     ## 📈 Stats
@@ -87,30 +48,15 @@
     <p>
         <h3 align="center">Please give me star</h3>
         <div align="center">
-          <a class="cool-button" href="https://github.com/charles0830/charles0830">GitHub Profile</a>
-          <a class="cool-button" href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a>
-          <a class="cool-button" href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a>
-          <a class="cool-button" href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a>
-          <a class="cool-button" href="https://github.com/charles0830/A-Social-Media">A Social Media</a>
-          <a class="cool-button" href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a>
-          <a class="cool-button" href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a>
-          <a class="cool-button" href="https://github.com/charles0830/nano-neuron">NanoNeuron</a>
-          <a class="cool-button" href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a>
-          <style>
-          .cool-button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: green;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            font-size: 16px;
-            transition: background-color 0.3s ease;
-          }
-          .cool-button:hover {
-            background-color: #47a347; /* darker shade of green on hover */
-          }
-          </style>
+          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/charles0830.github.io">Personal Website</a>
+          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a>
+          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a>
+          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a>
+          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/A-Social-Media">A Social Media</a>
+          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a>
+          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a>
+          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/nano-neuron">NanoNeuron</a>
+          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a>
         </div>
     </p>
 </body>
