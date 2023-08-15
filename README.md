@@ -82,3 +82,19 @@
                 src="https://profile-counter.glitch.me/kritical0613/count.svg" />
     </a>
 </p>
+
+<p>
+    <h3 align="center">Please give me star</h3>
+    <div align="center">
+        <a type="button" href="https://github.com/charles0830/charles0830.github.io">Personal Website</a>
+        <a type="button" href="https://github.com/charles0830/charles0830">GitHub Profile</a>
+        <a type="button" href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a>
+        <a type="button" href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a>
+        <a type="button" href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a>
+        <a type="button" href="https://github.com/charles0830/A-Social-Media">A Social Media</a>
+        <a type="button" href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a>
+        <a type="button" href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a>
+        <a type="button" href="https://github.com/charles0830/nano-neuron">NanoNeuron</a>
+        <a type="button" href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a>
+    </div>
+</p>
