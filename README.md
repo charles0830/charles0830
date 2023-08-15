@@ -46,7 +46,7 @@
         </a>
     </p>
     <p>
-        <h3 align="center">Please give me star</h3>
+        <h3 align="center">Please give star to these projects(It need only 2 clicks)</h3>
         <div align="center">
             <a href="https://github.com/charles0830/charles0830.github.io">Personal Website</a><br>
             <a href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a><br>
