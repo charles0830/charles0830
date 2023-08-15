@@ -1,3 +1,21 @@
+<head>
+  <style>
+    .cool-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: green;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 16px;
+      transition: background-color 0.3s ease;
+    }
+    .cool-button:hover {
+      background-color: #47a347; /* darker shade of green on hover */
+    }
+  </style>
+</head>
+
 <div style="display: flex; justify-content: center;">
     <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
 </div>
@@ -89,15 +107,15 @@
 <p>
     <h3 align="center">Please give me star</h3>
     <div align="center">
-        <a type="button" href="https://github.com/charles0830/charles0830.github.io">Personal Website</a><br>
-        <a type="button" href="https://github.com/charles0830/charles0830">GitHub Profile</a><br>
-        <a type="button" href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a><br>
-        <a type="button" href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a><br>
-        <a type="button" href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a><br>
-        <a type="button" href="https://github.com/charles0830/A-Social-Media">A Social Media</a><br>
-        <a type="button" href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a><br>
-        <a type="button" href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a><br>
-        <a type="button" href="https://github.com/charles0830/nano-neuron">NanoNeuron</a><br>
-        <a type="button" href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a><br>
+        <a class="cool-button" href="https://github.com/charles0830/charles0830.github.io">Personal Website</a><br>
+        <a class="cool-button" href="https://github.com/charles0830/charles0830">GitHub Profile</a><br>
+        <a class="cool-button" href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a><br>
+        <a class="cool-button" href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a><br>
+        <a class="cool-button" href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a><br>
+        <a class="cool-button" href="https://github.com/charles0830/A-Social-Media">A Social Media</a><br>
+        <a class="cool-button" href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a><br>
+        <a class="cool-button" href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a><br>
+        <a class="cool-button" href="https://github.com/charles0830/nano-neuron">NanoNeuron</a><br>
+        <a class="cool-button" href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a><br>
     </div>
 </p>
