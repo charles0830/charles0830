@@ -48,15 +48,26 @@
     <p>
         <h3 align="center">Please give me star</h3>
         <div align="center">
-          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/charles0830.github.io">Personal Website</a>
-          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a>
-          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a>
-          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a>
-          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/A-Social-Media">A Social Media</a>
-          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a>
-          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a>
-          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/nano-neuron">NanoNeuron</a>
-          <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a>
+            <div>
+                <a style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/charles0830.github.io">Personal Website</a>
+                <a style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a>
+            </div>
+            <div>
+                <a style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/AI-Image-Caption-Bot">AI Image Caption Bot</a>
+                <a style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/E-Commerce-Site">E-Commerce-Site</a>
+            </div>
+            <div>
+                <a style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/A-Social-Media">A Social Media</a>
+                <a  style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/URL-Shortner/">URL Shortner</a>
+            </div>
+            <div>
+                <a style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/charles0830">GitHub Profile</a>
+                <a style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/School-Donation-Analysis">School Donation Analysis</a>
+            </div>
+            <div>
+                <a style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/homemade-machine-learning">Machine Learning</a>
+                <a style="display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; transition: background-color 0.3s ease;" href="https://github.com/charles0830/nano-neuron">NanoNeuron</a>
+            </div>
         </div>
     </p>
 </body>
