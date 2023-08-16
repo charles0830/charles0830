@@ -72,7 +72,7 @@
         </a>
     </p>
     <p>
-        <h3 align="center">Please give star to these projects(It need only 2 clicks)</h3>
+        <h2 align="center"><a href="https://github.com/charles0830?tab=repositories">Please give star to these projects(It need only 2 clicks)</a></h2>
         <div align="center">
             <a href="https://github.com/charles0830/charles0830.github.io">Personal Website</a>&nbsp;&nbsp;
             <a href="https://github.com/charles0830/AI-Music-Generation">AI Music Generation</a>&nbsp;&nbsp;
