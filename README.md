@@ -89,3 +89,8 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 </body>
 </html>
+
+
+<p>
+    <h2 style="color: red" href="mailto:chberry0830@gmail.com">Note: Feel free to email me if you have any improvements to my Website and GitHub profile.</h2>
+</p>
