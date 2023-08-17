@@ -92,5 +92,9 @@
 
 
 <p>
-    <h2 style="color: red" href="mailto:chberry0830@gmail.com">Note: Feel free to email me if you have any improvements to my Website and GitHub profile.</h2>
+    <h2 style="color: red">
+        <a href="mailto:chberry0830@gmail.com">
+            Note: Feel free to email me if you have any improvements to my Website and GitHub profile.
+        </a>
+    </h2>
 </p>
