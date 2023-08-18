@@ -56,7 +56,7 @@
     <p align="center">
     <div align="center">
         <img
-            src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues,Organizations,Stars">
+            src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=8&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues,Organizations,Stars,Reviews">
     </div>
     <div align="center">
         <img style="width: 49%;"
