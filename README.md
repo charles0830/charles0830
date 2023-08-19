@@ -5,18 +5,13 @@
         <img align="center" src="./assets/Welcome.gif" />
     </div>
     <p>
-    <h3 align="left">As a hardworking developer with 10 years of experience, I have a knack for creating elegant solutions
-        in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation
-        web apps for local charities.</h3>
-    <img align="right" width="500"
+        <img align="right" width="500"
         src="./assets/Right_Side.gif" />
-    <img align="right"
+        <img align="right"
         src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;10+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
-    <h3 align="left">Building state-of-the-art, easy to use, user friendly web sites and applications is truly a passion of
-        mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan,
-        and scaling it for a high number of concurrent users.</h3>
-    <h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to
-        each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
+        <h3 align="left">As a hardworking developer with 10 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.</h3>
+        <h3 align="left">Building state-of-the-art, easy to use, user friendly web sites and applications is truly a passion of mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of concurrent users.</h3>
+        <h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
     </p> 
     <div align="center" width='100%'>
         <h1><a align='center' width='100%' href="https://charles0830.github.io/">Please Click Here!</a></h1>
