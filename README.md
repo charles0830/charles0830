@@ -14,7 +14,7 @@
         <h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
     </p> 
     <div align="center" width='100%'>
-        <h1><a align='center' width='100%' href="https://charles0830.github.io/">Please Click Here!</a></h1>
+        <h1><a align='center' width='100%' href="https://charles0830.github.io/">Click Here!</a></h1>
     </div>
     ## ⚡ Technologies
     <p align="center">
