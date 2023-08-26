@@ -6,6 +6,7 @@
     </div>
     <div align="center" width='100%'>
         <h1><a align='center' width='100%' href="https://charles0830.github.io/">TALENTED DEVELOPER</a></h1>
+        <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     </div>
     <p>
         <img align="right" style="width:500px; height:400px;" 
@@ -15,11 +16,13 @@
         <h3 align="left">As a hardworking developer with 10 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.</h3>
         <h3 align="left">Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of concurrent users.</h3>
         <h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
+        <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     </p>
     <p>
         ## ⚡ Technologies
         <img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,,html,css,js,ts,next,nuxt,react,,solidity,prometheus,androidstudio,flutter,reactivex,aws,azure,cloudflare,,angular,nodejs,express,python,django,rails,ruby,,fastapi,go,java,codepen,git,github,gitlab,postman,,vue,laravel,php,qt,c,cpp,cs,,discord,bots,reactivex,swift,powershell,stackoverflow,styledcomponents,webpack,,figma,wordpress,mysql,postgresql,firebase,flask,dotnet,,kotlin,unity,linux,electron&perline=17"/>
     </p>
+    <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     ## 📈 Stats
     <p align="center">
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
@@ -36,6 +39,7 @@
       <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
     </div>
     <p>
+        <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
         <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
             <p align="center">💖 Visited Counts 💖<br><br> <img
                     src="https://profile-counter.glitch.me/kritical0613/count.svg" />
