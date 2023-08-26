@@ -32,7 +32,7 @@
     <p align="center">
     <div align="center">
         <img
-            src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=8&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues,Organizations,Stars,Reviews">
+            src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=9&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues,Organizations,Stars,Reviews">
     </div>
     <div align="center">  
       <img height="195px" src="https://github-readme-stats.vercel.app/api?username=charles0830&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
