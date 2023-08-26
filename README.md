@@ -20,7 +20,7 @@
     </p>
     <p>
         ## ⚡ Technologies
-        <img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,,html,css,js,ts,next,nuxt,react,,solidity,prometheus,androidstudio,flutter,reactivex,aws,azure,cloudflare,,angular,nodejs,express,python,django,rails,ruby,,fastapi,go,java,codepen,git,github,gitlab,postman,,vue,laravel,php,qt,c,cpp,cs,,discord,bots,reactivex,swift,powershell,stackoverflow,styledcomponents,webpack,,figma,wordpress,mysql,postgresql,firebase,flask,dotnet,,kotlin,unity,linux,electron&perline=17"/>
+        <img align="center" src="https://skillicons.dev/icons?i=,,,,,,,,ts,,,,,,,,,,,,,,,,js,python,next,,,,,,,,,kubernetes,jenkins,,,,css,express,qt,django,nuxt,,,,prometheus,androidstudio,,docker,aws,azure,ansible,,html,nodejs,php,postgresql,c,rails,react,,solidity,go,java,flutter,reactivex,github,gitlab,cloudflare,,angular,laravel,mysql,,firebase,cpp,ruby,,fastapi,bots,reactivex,codepen,git,stackoverflow,styledcomponents,postman,,vue,wordpress,,,,flask,cs,,discord,unity,linux,swift,powershell,,,webpack,,figma,,,,,,dotnet,,kotlin,,,electron&perline=17"/>
     </p>
     <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     ## 📈 Stats
