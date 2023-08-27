@@ -5,7 +5,7 @@
         <img align="center" src="./assets/Welcome.gif" />
     </div>
     <div align="center" width='100%'>
-        <h1><a align='center' width='100%' href="https://charles0830.github.io/">TALENTED DEVELOPER</a></h1>
+        <h1><a align='center' width='100%' href="mailto:chberry0830@gmail.com">TALENTED DEVELOPER</a></h1>
         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     </div>
     <p>
@@ -43,20 +43,18 @@
         <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
             <p align="center">💖 Visited Counts 💖<br><br> <img
                     src="https://profile-counter.glitch.me/kritical0613/count.svg" />
+            </p>
         </a>
     </p>
     <p>
-        <h2 align="center"><a href="https://github.com/charles0830?tab=repositories">Please give star to these projects(It need only 2 clicks)</a></h2>
+        <h2 align="center"><a href="https://github.com/charles0830?tab=repositories">Star My Repos(It need only 2 clicks)</a></h2>
     </p>
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+    <p>
+        <h2 align="center">
+            <a href="https://charles0830.github.io/profile/">Personal Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://charles0830.github.io/chess-mashup/">Crazy Chess</a>
+        </h2>
+    </p>
 </body>
 </html>
-
-
-<p>
-    <h2 style="color: red">
-        <a href="mailto:chberry0830@gmail.com">
-            Note: Feel free to email me if you have any improvements to my Website and GitHub profile.
-        </a>
-    </h2>
-</p>
