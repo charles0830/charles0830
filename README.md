@@ -52,7 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
     <p>
         <h2 align="center">
-            <a href="https://charles0830.github.io/profile/">Personal Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://charles0830.github.io/">Personal Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://charles0830.github.io/chess-mashup/">Crazy Chess</a>
         </h2>
     </p>
