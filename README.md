@@ -47,7 +47,10 @@
         </a>
     </p>
     <p>
-        <h2 align="center"><a href="https://github.com/charles0830?tab=repositories">Star My Repos(It need only 2 clicks)</a></h2>
+        <h2 align="center">
+            <a href="https://github.com/charles0830?tab=repositories">Star My Repos(It need only 2 clicks)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+        </h2>
     </p>
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
     <p>
