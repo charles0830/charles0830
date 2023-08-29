@@ -36,7 +36,7 @@
     </div>
     <div align="center">  
       <img height="195px" src="https://github-readme-stats.vercel.app/api?username=charles0830&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&PAT_1" />
     </div>
     <p>
         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
