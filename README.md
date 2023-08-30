@@ -35,12 +35,11 @@
             src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=9&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues,Organizations,Stars,Reviews">
     </div>
     <div align="center">  
-      <img height="195px" src="https://github-readme-stats.vercel.app/api?username=charles0830&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
-      <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=charles0830&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
+      <img height="195px" width="495px" src="https://github-readme-stats.vercel.app/api?username=charles0830&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
+      <img height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charles0830&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
     </div>
     <div align="center">  
-      <img height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charles0830&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
-      <img height="195px" width="283px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&PAT_1&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning" alt="Matheus Maia Alvarez github stats" />
+      <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=charles0830&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
       <img height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charles0830&theme=github_dark&exclude=go&PAT_1" alt="Matheus Maia Alvarez github stats" />
     </div>
     <p>
