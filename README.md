@@ -4,8 +4,16 @@
     <div style="display: flex; justify-content: center;">
         <img align="center" src="./assets/Welcome.gif" />
     </div>
-    <div align="center" width='100%'>
-        <h1><a align='center' width='100%' href="mailto:chberry0830@gmail.com">TALENTED DEVELOPER</a></h1>
+    <div align="center">
+        <a>
+            <img src="https://readme-typing-svg.demolab.com?font=&size=30&duration=3000&pause=1500&color=0CF7D9&center=true&vCenter=true&width=435&lines=%3C%2FTALENTED+DEVELOPER%2F%3E;%3C%2FContact+Me+Here+--%3E+" alt="Typing SVG" />
+        </a>
+        <a href="mailto:chberry0830@gmail.com">
+            <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://join.skype.com/invite/mSi0aNEcLdst">
+            <img src='https://img.icons8.com/color/344/skype.png' height="50">
+        </a>
         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     </div>
     <p>
@@ -23,7 +31,7 @@
         <img align="center" src="https://skillicons.dev/icons?i=,,,,,,,,ts,,,,,,,,,,,,,,,,js,python,next,,,,,,,,,kubernetes,jenkins,,,,css,express,qt,django,nuxt,,,,prometheus,androidstudio,,docker,aws,azure,ansible,,html,nodejs,php,postgresql,c,rails,react,,solidity,go,java,flutter,reactivex,github,gitlab,cloudflare,,angular,laravel,mysql,,firebase,cpp,ruby,,fastapi,bots,reactivex,codepen,git,stackoverflow,styledcomponents,postman,,vue,wordpress,,,,flask,cs,,discord,unity,linux,swift,powershell,,,webpack,,figma,,,,,,dotnet,,kotlin,,,electron&perline=17"/>
     </p>
     <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
-<h1>🌟Stats🌟</h1>
+<h1>🏆Stats🏅</h1>
     <p align="center">
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
         <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
@@ -40,9 +48,10 @@
             <img height="195px" src="https://github-readme-stats.vercel.app/api?username=charles0830&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
             <img height="195px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=charles0830&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
         </div>
+         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     </div>
     <p>
-        <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
+        <img src="https://user-images.githubusercontent.com/120355368/259693892-0f6f2fb1-82ff-4024-812a-c62a33a887f9.gif" align="center">
         <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
             <p align="center">💖 Visited Counts 💖<br><br> <img
                     src="https://profile-counter.glitch.me/kritical0613/count.svg" />
@@ -54,6 +63,5 @@
             <a href="https://github.com/charles0830?tab=repositories">Star My Repos(It need only 2 clicks)</a>
         </h2>
     </p>
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 </body>
 </html>
