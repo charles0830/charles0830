@@ -19,11 +19,11 @@
         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
     </p>
     <p>
-        ## ⚡ Technologies
+<h1>🌠Technologies☄</h1>
         <img align="center" src="https://skillicons.dev/icons?i=,,,,,,,,ts,,,,,,,,,,,,,,,,js,python,next,,,,,,,,,kubernetes,jenkins,,,,css,express,qt,django,nuxt,,,,prometheus,androidstudio,,docker,aws,azure,ansible,,html,nodejs,php,postgresql,c,rails,react,,solidity,go,java,flutter,reactivex,github,gitlab,cloudflare,,angular,laravel,mysql,,firebase,cpp,ruby,,fastapi,bots,reactivex,codepen,git,stackoverflow,styledcomponents,postman,,vue,wordpress,,,,flask,cs,,discord,unity,linux,swift,powershell,,,webpack,,figma,,,,,,dotnet,,kotlin,,,electron&perline=17"/>
     </p>
     <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
-    ## 📈 Stats
+<h1>🌟Stats🌟</h1>
     <p align="center">
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
         <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
@@ -35,7 +35,7 @@
             src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=9&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues,Organizations,Stars,Reviews">
     </div>
     <div align="center">  
-        <img  align="right" height="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&langs_count=18&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
+        <img  align="right" height="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&langs_count=20&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
         <div align="left">
             <img height="195px" src="https://github-readme-stats.vercel.app/api?username=charles0830&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
             <img height="195px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=charles0830&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
