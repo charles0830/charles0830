@@ -11,7 +11,7 @@
         <a href="mailto:chberry0830@gmail.com">
             <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
         </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://join.skype.com/invite/mSi0aNEcLdst">
+        <a href="https://join.skype.com/invite/ljHDMKanlnOf">
             <img src='https://img.icons8.com/color/344/skype.png' height="50">
         </a>
         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
