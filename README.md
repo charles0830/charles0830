@@ -58,7 +58,7 @@
         <img src="https://user-images.githubusercontent.com/120355368/259693892-0f6f2fb1-82ff-4024-812a-c62a33a887f9.gif" align="center">
         <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
             <p align="center">💖 Visited Counts 💖<br><br> <img
-                    src="https://profile-counter.glitch.me/kritical0613/count.svg" />
+                    src="https://profile-counter.glitch.me/charles0830/count.svg" />
             </p>
         </a>
     </p>
