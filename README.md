@@ -47,10 +47,10 @@
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Followers,PullRequest,Repositories,Issues,Stars,Reviews">
     </div>
     <div align="center">  
-        <img  align="right" height="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&langs_count=20&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
+        <img  align="right" height="380px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&langs_count=20&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
         <div align="left">
-            <img height="195px" src="https://github-readme-stats.vercel.app/api?username=charles0830&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
-            <img height="195px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=charles0830&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
+            <img height="195px" width="45%" src="https://github-readme-stats.vercel.app/api?username=charles0830&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
+            <img height="195px" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=charles0830&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
         </div>
          <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
     </div>
