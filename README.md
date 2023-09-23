@@ -4,18 +4,20 @@
     <div style="display: flex; justify-content: center;">
         <img align="center" src="./assets/Welcome.gif" />
     </div>
-    <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
-    <div align="center">
-        <a>
-            <img src="https://readme-typing-svg.demolab.com?font=&size=30&duration=3000&pause=1500&color=0CF7D9&center=true&vCenter=true&width=435&lines=%3C%2FTALENTED+DEVELOPER%2F%3E;%3C%2FContact+Me+Here+--%3E+" alt="Typing SVG" />
-        </a>
-        <a href="mailto:chberry0830@gmail.com">
-            <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
-        </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://join.skype.com/invite/ljHDMKanlnOf">
-            <img src='https://img.icons8.com/color/344/skype.png' height="50">
-        </a>
+    <div>
         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+        <div align="center">
+            <a>
+                <img src="https://readme-typing-svg.demolab.com?font=&size=30&duration=3000&pause=1500&color=0CF7D9&center=true&vCenter=true&width=435&lines=%3C%2FTALENTED+DEVELOPER%2F%3E;%3C%2FContact+Me+Here+--%3E+" alt="Typing SVG" />
+            </a>
+            <a href="mailto:chberry0830@gmail.com">
+                <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
+            </a>&nbsp;&nbsp;&nbsp;
+            <a href="https://join.skype.com/invite/ljHDMKanlnOf">
+                <img src='https://img.icons8.com/color/344/skype.png' height="50">
+            </a>
+            <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+        </div>
     </div>
     <p>
         <img align="right" style="width:500px; height:400px;" 
@@ -28,44 +30,45 @@
         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
     </p>
     <p>
-<h1>🌠Technologies☄</h1>
+        <h1>🌠Technologies☄</h1>
         <img align="center" src="https://skillicons.dev/icons?i=,,,,,,,,ts,,,,,,,,,,,,,,,,js,python,next,,,,,,,,,kubernetes,jenkins,,,,css,express,qt,django,nuxt,,,,prometheus,androidstudio,,docker,aws,azure,ansible,,html,nodejs,php,postgresql,c,rails,react,,solidity,go,java,flutter,reactivex,github,gitlab,cloudflare,,angular,laravel,mysql,,firebase,cpp,ruby,,fastapi,bots,reactivex,codepen,git,stackoverflow,styledcomponents,postman,,vue,wordpress,,,,flask,cs,,discord,unity,linux,swift,powershell,,,webpack,,figma,,,,,,dotnet,,kotlin,,,electron&perline=17"/>
+        <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
     </p>
-    <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
-<h1>🏆Stats🏅</h1>
+    <h1>🏆Stats🏅</h1>
     <p align="center">
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
         <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
     </p>
-    <p align="center">
     <div align="center">
         <div align="center">
-            <img src="https://github-profile-trophy.vercel.app/?username=ken-b4u&theme=matrix&no-bg=true&no-frame=true&column=2&title=LongTimeUser,AncientUser">
-            <img src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Commits,Organizations">
+            <div align="center">
+                <img src="https://github-profile-trophy.vercel.app/?username=ken-b4u&theme=matrix&no-bg=true&no-frame=true&column=2&title=LongTimeUser,AncientUser" />
+                <img src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Commits,Organizations" />
+            </div>
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Followers,PullRequest,Repositories,Issues,Stars,Reviews" />
         </div>
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Followers,PullRequest,Repositories,Issues,Stars,Reviews">
-    </div>
-    <div align="center">  
-        <img  align="right" height="380px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&langs_count=20&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
-        <div align="left">
-            <img height="195px" width="55%" src="https://github-readme-stats.vercel.app/api?username=charles0830&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
-            <img height="195px" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=charles0830&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
+        <div align="center">  
+            <img  align="right" height="380px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&langs_count=20&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
+            <div align="left">
+                <img height="195px" width="55%" src="https://github-readme-stats.vercel.app/api?username=charles0830&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
+                <img height="195px" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=charles0830&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
+            </div>
+             <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
         </div>
-         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+        <div>
+            <img src="https://user-images.githubusercontent.com/120355368/259693892-0f6f2fb1-82ff-4024-812a-c62a33a887f9.gif" align="center">
+            <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
+                <p align="center">💖 Visited Counts 💖<br><br> <img
+                        src="https://profile-counter.glitch.me/charles0830/count.svg" />
+                </p>
+            </a>
+        </div>
+        <div>
+            <h2 align="center">
+                <a href="https://github.com/charles0830?tab=repositories">Star My Repos(It need only 2 clicks)</a>
+            </h2>
+        </div>
     </div>
-    <p>
-        <img src="https://user-images.githubusercontent.com/120355368/259693892-0f6f2fb1-82ff-4024-812a-c62a33a887f9.gif" align="center">
-        <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
-            <p align="center">💖 Visited Counts 💖<br><br> <img
-                    src="https://profile-counter.glitch.me/charles0830/count.svg" />
-            </p>
-        </a>
-    </p>
-    <p>
-        <h2 align="center">
-            <a href="https://github.com/charles0830?tab=repositories">Star My Repos(It need only 2 clicks)</a>
-        </h2>
-    </p>
 </body>
 </html>
