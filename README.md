@@ -31,7 +31,7 @@
     </p>
     <p>
         <h1>🌠Technologies☄</h1>
-        <img align="center" src="https://skillicons.dev/icons?i=,,,,,,,,ts,,,,,,,,,,,,,,,,js,python,next,,,,,,,,,kubernetes,jenkins,,,,css,express,qt,django,nuxt,,,,prometheus,androidstudio,,docker,aws,azure,ansible,,html,nodejs,php,postgresql,c,rails,react,,solidity,go,java,flutter,reactivex,github,gitlab,cloudflare,,angular,laravel,mysql,,firebase,cpp,ruby,,fastapi,bots,reactivex,codepen,git,stackoverflow,styledcomponents,postman,,vue,wordpress,,,,flask,cs,,discord,unity,linux,swift,powershell,,,webpack,,figma,,,,,,dotnet,,kotlin,,,electron&perline=17"/>
+        <img align="center" src="https://skillicons.dev/icons?i=ts,js,nodejs,angular,react,nuxt,next,express,vue,laravel,php,wordpress,css,html,figma,python,django,flask,fastapi,cpp,qt,dotnet,androidstudio,flutter,java,go,,,docker,postgresql,mysql,mongodb,firebase,postman,cloudflare,aws,azure&perline=13"/>
         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
     </p>
     <h1>🏆Stats🏅</h1>
