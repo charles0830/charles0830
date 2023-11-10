@@ -46,9 +46,9 @@
         <div align="center">
             <div align="center">
                 <img src="https://github-profile-trophy.vercel.app/?username=ken-b4u&theme=matrix&no-bg=true&no-frame=true&column=2&title=LongTimeUser,AncientUser" />
-                <img src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Commits,Organizations" />
+                <img src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Followers,Organizations" />
             </div>
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Followers,PullRequest,Repositories,Issues,Stars,Reviews" />
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=charles0830&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Commits,PullRequest,Repositories,Issues,Stars,Reviews" />
         </div>
         <div align="center">  
             <img  align="right" height="380px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0830&langs_count=20&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
