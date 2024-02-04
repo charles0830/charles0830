@@ -12,7 +12,7 @@
             </a>
             <a href="mailto:chberry0830@gmail.com">
                 <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
-            </a>&nbsp;&nbsp;&nbsp;
+            </a>
             <a href="https://join.skype.com/invite/njFc7wUIlF9O">
                 <img src='https://img.icons8.com/color/344/skype.png' height="50">
             </a>
