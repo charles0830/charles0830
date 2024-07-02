@@ -10,11 +10,8 @@
             <a>
                 <img src="https://readme-typing-svg.demolab.com?font=&size=30&duration=3000&pause=1500&color=0CF7D9&center=true&vCenter=true&width=435&lines=%3C%2FTALENTED+DEVELOPER%2F%3E;%3C%2FContact+Me+Here+--%3E+" alt="Typing SVG" />
             </a>
-            <a href="mailto:chberry0830@gmail.com">
+            <a href="mailto:vernedon@gmail.com">
                 <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
-            </a>
-            <a href="https://join.skype.com/invite/njFc7wUIlF9O">
-                <img src='https://img.icons8.com/color/344/skype.png' height="50">
             </a>
             <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
         </div>
